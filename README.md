@@ -25,13 +25,13 @@ Obtained dataset comprising random loan applications, their outcomes, and applic
 
 2. Data Preprocessing:
    
-To ensure data quality, I filtered the dataset to remove instances where information was missing or null values were present. This was easily achieved using the Power Query Editor, where I replaced missing values. Additionally, I transformed the 'Status' column from 0 and 1 to 'rejected' and 'approved,' respectively. As there was no documentation available on currency, I assumed the loan amount was in USD.
+To ensure data quality, I filtered the dataset to remove instances where information was missing or null values were present. This was easily achieved using the Power Query Editor, where I sorted out missing values. I thought about changing that value of the missing data or the null values to 0 but thought using the filter more simplistic. Additionally, I transformed the 'Status' column from 0 and 1 to 'rejected' and 'approved,' respectively. As there was no documentation available on currency, I assumed the loan amount was in USD.
 
 3. Data Analysis:
    
 For this part of the process, exploratory data analysis was performed to gain insights into the distribution of loan approvals based on gender, marital status, and location.  Visualizations such as bar charts were used to represent approved and denied loans by gender and marital status. I also employed a pie chart to showcase the differences in approvals across the three geographical locations. To analyze the average loan amounts, a donut chart was used to visualize the average loan amount for both genders.
 
-In create meaning, different measures were wrote to gain insight on this data. These measures were to obtain averages to see if there were any discrepencies. After the measures were created, a matrix visual was created. To present the data more effectively, a new table was generated to display the measure names alongside the data.
+To create meaning, different measures were wrote to gain insight on this data. These measures were to obtain averages to see if there were any discrepencies. After the measures were created, a matrix visual was created. To present the data more effectively, a new table was generated to display the measure names alongside the data.
 
 # Conclusion
 
