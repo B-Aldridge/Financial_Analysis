@@ -38,7 +38,7 @@ To ensure data quality, I filtered the dataset to remove instances where informa
    
 For this part of the process, exploratory data analysis was performed to gain insights into the distribution of loan approvals based on gender, marital status, and location.  Visualizations such as bar charts were used to represent approved and denied loans by gender and marital status. Interactive Slicer was added to sort by approved and denied loans. I also employed a pie chart to showcase the differences in approvals across the three geographical locations. To analyze the average loan amounts, a donut chart was used to visualize the average loan amount for both genders.
 
-To create meaning, different measures were wrote to gain insight on this data. These measures were to obtain averages to see if there were any discrepencies. An example is shown below:
+To create meaning, different measures were wrote to gain insight on this data. During this time, I would research the Data Analysis Expressions (DAX) language as from my independent research, this is the primary language to use for Power Bi. These measures were to obtain averages to see if there were any discrepencies. An example is shown below:
 
 ![averages](Images/Average_Picture.png)
 
