@@ -1,4 +1,4 @@
-# Financial Analysis (with the use of Microsoft Power Bi)
+# Financial Analysis with Microsoft Power BI
 
 # Overview:
 
